@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\weex\\weexScanQR\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap\\houtui.png",
+        "source": "E:\\weex\\weexScanQR\\android\\library\\build\\intermediates\\bundles\\debug\\res\\mipmap\\houtui.png"
+    },
+    {
+        "merged": "E:\\weex\\weexScanQR\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap\\ic_launcher.png",
+        "source": "E:\\weex\\weexScanQR\\android\\library\\build\\intermediates\\bundles\\debug\\res\\mipmap\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\weex\\weexScanQR\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap\\qrcode_scan_line.png",
+        "source": "E:\\weex\\weexScanQR\\android\\library\\build\\intermediates\\bundles\\debug\\res\\mipmap\\qrcode_scan_line.png"
+    },
+    {
+        "merged": "E:\\weex\\weexScanQR\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap\\hand.png",
+        "source": "E:\\weex\\weexScanQR\\android\\library\\build\\intermediates\\bundles\\debug\\res\\mipmap\\hand.png"
+    }
+]

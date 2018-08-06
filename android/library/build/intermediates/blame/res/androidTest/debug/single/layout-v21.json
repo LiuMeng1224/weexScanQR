@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\weex\\weexScanQR\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\485701ecd9a62b7cfbaf449a682578268bc4fa5b\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\weex\\weexScanQR\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\485701ecd9a62b7cfbaf449a682578268bc4fa5b\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\weex\\weexScanQR\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\485701ecd9a62b7cfbaf449a682578268bc4fa5b\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\weex\\weexScanQR\\android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\485701ecd9a62b7cfbaf449a682578268bc4fa5b\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
